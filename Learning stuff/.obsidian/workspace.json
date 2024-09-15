@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "234240ce396f4bf8",
+        "id": "4e7be5bfd278e9cd",
         "type": "tabs",
         "children": [
           {
-            "id": "a570ee2e1c69f1c6",
+            "id": "1dca98da793ef327",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Parikshit related/ADCS Purana SIL.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "161b90ef0a1484f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NASA HL-20 Simulink Model.md",
+                "file": "PID Tuner -.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NASA HL-20 Simulink Model.md",
+                "file": "PID Tuner -.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NASA HL-20 Simulink Model.md",
+                "file": "PID Tuner -.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NASA HL-20 Simulink Model.md"
+                "file": "PID Tuner -.md"
               }
             }
           }
@@ -161,14 +147,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "161b90ef0a1484f3",
+  "active": "1dca98da793ef327",
   "lastOpenFiles": [
+    "Aerospace related/NASA HL-20 Simulink Model.md",
+    "PID Tuner -.md",
+    "Controls related",
+    "Aerospace related",
+    "19920021931.pdf",
+    "Parikshit related/ADCS Purana SIL.md",
+    "19920021931.pdf.md",
+    "Pasted image 20240915215628.png",
+    "Pasted image 20240915215535.png",
+    "Pasted image 20240915215453.png",
+    "Pasted image 20240915215404.png",
+    "Pasted image 20240915214515.png",
     "Pasted image 20240915185130.png",
-    "NASA HL-20 Simulink Model.md",
     "3 - Templates/Work_bench.md",
     "3 - Templates/Reflection.md",
     "3 - Templates/Control theory Notes.md",
-    "Parikshit related/ADCS Purana SIL.md",
     "3 - Templates/META-DATA.md",
     "3 - Templates/ADCS Parikshit.md",
     "3 - Templates/ADCS.md",
@@ -189,7 +185,6 @@
     "Templates 👀/Reflection.md",
     "Templates 👀/Quick Note.md",
     "Templates 👀/META-DATA.md",
-    "Templates 👀/Evergreen.md",
     "Templates 👀",
     "Parikshit related",
     "4 - Indexes",
