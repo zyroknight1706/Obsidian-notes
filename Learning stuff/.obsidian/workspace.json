@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "353a0100bf690f16",
+    "type": "split",
+    "children": [
+      {
+        "id": "234240ce396f4bf8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a570ee2e1c69f1c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Parikshit related/ADCS Purana SIL.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "161b90ef0a1484f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NASA HL-20 Simulink Model.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "787562eaa6cc3296",
+    "type": "split",
+    "children": [
+      {
+        "id": "36b4ee444ccae91f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8afb78b33b031ce",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5e829c9fee8a9695",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:Code",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e6cf044f4eaf5e0a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "49c40d0a91583835",
+    "type": "split",
+    "children": [
+      {
+        "id": "74ea6d813c07b55d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53d802751b950797",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "NASA HL-20 Simulink Model.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2efb1ccb2bc38c02",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "NASA HL-20 Simulink Model.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "579c9477cc52e8aa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8cee3d61411eff02",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "NASA HL-20 Simulink Model.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "161b90ef0a1484f3",
+  "lastOpenFiles": [
+    "Pasted image 20240915185130.png",
+    "NASA HL-20 Simulink Model.md",
+    "3 - Templates/Work_bench.md",
+    "3 - Templates/Reflection.md",
+    "3 - Templates/Control theory Notes.md",
+    "Parikshit related/ADCS Purana SIL.md",
+    "3 - Templates/META-DATA.md",
+    "3 - Templates/ADCS Parikshit.md",
+    "3 - Templates/ADCS.md",
+    "bruh.md",
+    "ADCS.md",
+    "5 - Templates/ADCS ki Bakchodi.md",
+    "First Note.md",
+    "3 - Tags/Simulation.md",
+    "3 - Templates/Weekly note.md",
+    "3 - Templates/Study plan.md",
+    "3 - Templates/Quick Note.md",
+    "3 - Templates/Evergreen.md",
+    "3 - Templates/Daily.md",
+    "3 - Templates",
+    "Templates 👀/Work_bench.md",
+    "Templates 👀/Weekly note.md",
+    "Templates 👀/Study plan.md",
+    "Templates 👀/Reflection.md",
+    "Templates 👀/Quick Note.md",
+    "Templates 👀/META-DATA.md",
+    "Templates 👀/Evergreen.md",
+    "Templates 👀",
+    "Parikshit related",
+    "4 - Indexes",
+    "3 - Tags",
+    "Research projects",
+    "1 -  Rough Notes"
+  ]
+}
